@@ -1,0 +1,1 @@
+# Heikin-Ashi
