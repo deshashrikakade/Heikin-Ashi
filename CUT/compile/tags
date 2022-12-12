@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/deshashri/Desktop/Heikanashi/compile/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/50f60b84/
+appendLinkedList	../src/utility.c	/^void appendLinkedList(stock **headCandle, stock* data)$/;"	f	typeref:typename:void
+checkColourChange	../src/formula.c	/^void checkColourChange(stock* headHeikenAshi)$/;"	f	typeref:typename:void
+display_stock	../src/utility.c	/^void display_stock(stock* st)$/;"	f	typeref:typename:void
+freeLinkedList	../src/utility.c	/^int freeLinkedList(stock** headCandle)$/;"	f	typeref:typename:int
+haClose	../src/formula.c	/^void haClose(stock* currentCandle, stock* HeikenAshi , stock* prevHACandle)$/;"	f	typeref:typename:void
+loadFromFile	../src/utility.c	/^int loadFromFile(const char *fileName, stock **headCandle)$/;"	f	typeref:typename:int
+main	../src/main.c	/^int main()$/;"	f	typeref:typename:int
+makeHeikenAshi	../src/formula.c	/^void makeHeikenAshi(stock* headCandle, stock** headHeikenAshi)$/;"	f	typeref:typename:void
+printLinkedList	../src/utility.c	/^void printLinkedList(stock *st)$/;"	f	typeref:typename:void
